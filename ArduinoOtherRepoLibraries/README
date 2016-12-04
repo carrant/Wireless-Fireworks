@@ -3,3 +3,5 @@ Docs Optimized High Speed NRF24L01+     http://tmrh20.github.io/RF24
 
 nRF8001 BLueTooth https://github.com/RedBearLab/nRF8001
 
+
+Copy these directories to your Arduinio Library folder OR download them from the github repos.
