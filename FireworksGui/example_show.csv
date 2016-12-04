@@ -1,0 +1,10 @@
+0,nop, 257,257 # skip first entry
+0, this,   99,   1           # testing
+# wait one sec
+1000, that, 99,  2
+0, threre, 99, 3
+               #wait rtwo secs
+2000, wow, 99, 4
+0,  now, 99,  5
+  0  , how,  99  ,  6  # testing
+5000, all, 65000, 65000
