@@ -2,19 +2,19 @@
 Wireless fireworks controllers, slats, simulator
 
 Project			Function
-FireworksSimulator	Play the csv in a simulated environment. Hardcoded for a specific show.
-FireworksGuiAndroid	Qt Android based controller
-FireworksGui		Qt computer based controller (tested under Ubuntu 14)
+	FireworksSimulator	Play the csv in a simulated environment. Hardcoded for a specific show.
+	FireworksGuiAndroid	Qt Android based controller
+	FireworksGui		Qt computer based controller (tested under Ubuntu 14)
 
-FireModule		Code for slats
-FireControlSlave	Send commands from computer or Android to slats.
-                        To build Android version #define USE_BLUETOOTH
-                        To build computer version undefine USE_BLUETOOTH
-FireModuleTest		Run radio, display, and relay tests on a slat
+	FireModule		Code for slats
+	FireControlSlave	Send commands from computer or Android to slats.
+        	                To build Android version #define USE_BLUETOOTH
+                	        To build computer version undefine USE_BLUETOOTH
+	FireModuleTest		Run radio, display, and relay tests on a slat
 
 
-FireControl		This was meant to be an Arduino based controller - never completed
-FireComputer		Command line script player - used in original testing but never completed
+	FireControl		This was meant to be an Arduino based controller - never completed
+	FireComputer		Command line script player - used in original testing but never completed
 
 
 Arduino Libraries
